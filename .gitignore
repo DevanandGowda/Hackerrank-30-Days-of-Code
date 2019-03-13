@@ -1,3 +1,6 @@
 
 # Ignore the VSCode extension
 .vscode
+
+# Ignore all Java class files - which contains the Java bytecode that can be executed on JVM
+*.class
